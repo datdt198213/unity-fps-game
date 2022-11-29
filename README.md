@@ -1,5 +1,5 @@
 # unity
-This project built a first person shoot multi-player game.
+This project built a first person shoot multi-players game.
 
 1. Setting environment to run this project.
 - Developing on unity editor version 2021.3.11f1
